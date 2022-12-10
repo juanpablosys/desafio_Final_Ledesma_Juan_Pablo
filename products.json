@@ -1,0 +1,37 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Personal Trainer",
+          "price": 18000,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Dance",
+          "price": 10000,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Crossfit",
+          "price": 12000,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Functional",
+          "price": 15000,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+        }
+      }
+
+    ]
+  }
